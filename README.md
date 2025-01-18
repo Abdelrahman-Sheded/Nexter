@@ -12,17 +12,17 @@ Nexter is a website dedicated to showcasing luxurious houses available for sale.
 Below are some screenshots that display the functionality and design of the Nexter website:
 
 ### Home Page
-![Home Page1](images/Screenshot_1.png)
+![Home Page1](nexter-pictures/Screenshot_1.png)
 *The home page introduces the user to a selection of featured luxury homes.*
 
 ### Property Detail View
-![Home Page2](images/Screenshot_2.png)
+![Home Page2](nexter-pictures/Screenshot_2.png)
 
 ### Gallery View
-![Home Page3](images/Screenshot_3.png)
+![Home Page3](nexter-pictures/Screenshot_3.png)
 
 ### Contact Form
-![Home Page4](images/Screenshot_4.png)
+![Home Page4](nexter-pictures/Screenshot_4.png)
 
 ## Technologies Used
 - **HTML5**: For structuring the content.
