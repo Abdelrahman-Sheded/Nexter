@@ -8,7 +8,6 @@ Below are some screenshots that display the functionality and design of the Next
 
 ### Home Page
 ![Home Page1](nexter-pictures/Screenshot_1.png)
-*The home page introduces the user to a selection of featured luxury homes.*
 
 ![Home Page2](nexter-pictures/Screenshot_2.png)
 
