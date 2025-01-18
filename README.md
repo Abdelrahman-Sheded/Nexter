@@ -3,11 +3,6 @@
 ## Overview
 Nexter is a website dedicated to showcasing luxurious houses available for sale. Designed with elegance and simplicity in mind, it uses advanced HTML and CSS techniques to present properties in the most appealing way. Nexter is the perfect platform for potential buyers looking for their dream home with high-end amenities.
 
-## Features
-- **Visual Galleries**: Browse high-resolution galleries of luxury homes.
-- **Responsive Design**: Optimized for viewing on any device, ensuring a seamless browsing experience.
-- **Interactive Listings**: Each listing provides detailed information about the property with an intuitive layout.
-
 ## Screenshots
 Below are some screenshots that display the functionality and design of the Nexter website:
 
@@ -15,18 +10,16 @@ Below are some screenshots that display the functionality and design of the Next
 ![Home Page1](nexter-pictures/Screenshot_1.png)
 *The home page introduces the user to a selection of featured luxury homes.*
 
-### Property Detail View
 ![Home Page2](nexter-pictures/Screenshot_2.png)
 
-### Gallery View
 ![Home Page3](nexter-pictures/Screenshot_3.png)
 
-### Contact Form
 ![Home Page4](nexter-pictures/Screenshot_4.png)
 
 ## Technologies Used
 - **HTML5**: For structuring the content.
-- **CSS3**: For styling, utilizing advanced CSS techniques like Flexbox and Grid for responsive layouts.
+- **CSS3/SCSS**: Utilizing advanced CSS techniques along with SCSS for efficient, maintainable styling. SCSS allows us to use variables, nested rules, mixins, functions, and more, which help in writing CSS in a more structured way.
+- **Sass (SCSS)**: A preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS). We use SCSS syntax for more advanced features like variables, mixins, and nested rules that make the CSS more maintainable.
 
 ## Getting Started
 
